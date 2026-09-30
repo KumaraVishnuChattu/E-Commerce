@@ -1,0 +1,83 @@
+Javascript:
+
+    Definition:
+        Javascript is a scripting language as well as programming language.
+        JS is Dynamically typed programming
+        JavaScript having single Call Stack.
+    
+    Uses:
+        - Using JavaScript we can build Dynamic web applications.
+        - Using JS , we can add functionalities to the web pages.
+        - Here we can achieve DOM(Document Object Model) functionalities , using that we can manipulate HTML and  CSS.
+        - Here we can fetch Data from the server(APIs) and also send data to the server.
+    
+    History:
+        - 1991
+        - Mocha(1995) by Net Scope(Browser Company)
+        -  LiveScript
+        -  JavaScript
+        - ECMA added new feature then, release 1st version -> ES1(ECMA Script version1)
+        - ES6 is the stable version currently used mostly.
+        - ES16 is the current max version (released April,2026)
+    
+    Implementation:
+        -Inline
+                example: <button onClick="">..</button>
+
+        -Internal
+            - <script>..</script> element is written at the end of body element, because the HTML should be loaded first.
+            - we can use "defer" attribute to write script element anywhere.
+            - ex: <script defer> .. </script>
+        
+        -External
+            
+    Q- Write and Bring 15  Browser names and their respective Javascript engine names.
+
+    Tokens:
+        - tokens are the smallest units in the JS Code
+        - Types:
+            1. Identifiers
+                - Identifiers are the names given to the elements in the code , like variable names, class names, function names.
+                - In place of identifiers we can't use Keywords.
+
+            2. Keywords
+                - Keywords are the predefined words which have their own meaning.
+                - In JS, total of 66 keywords are there.
+
+            3. Literals
+
+            4. Operators
+                - There are a total of 9 Operators in JS.
+
+            5. Seperators
+                - . , "" '' : ; {} [] () <>
+
+            6. Comments
+                - //single-line Comments
+                - /* Multi
+                    Line Comments */
+    Datatypes:
+        - Datatype represents the type of the data we are storing on that variable
+        Types:
+            1. Primitive Datatypes
+                i. number
+                ii. string
+                iii. boolean
+                iv. null
+                v. undefine
+                vi. symbol
+                vii. bigint
+            
+            2. Non-Primitive Datatypes
+                i. Arrays:
+                    - Arrays are the linear data structures used to store the collection of homogeneous or heterogeneous data.
+                    - JS Array Declaration:
+                        1. Literal Way
+                        2. Using "new" keyword
+                    
+                ii. Objects
+                iii. functions
+
+
+        
+    
